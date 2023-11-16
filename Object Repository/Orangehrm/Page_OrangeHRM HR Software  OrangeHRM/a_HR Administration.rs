@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_HR Administration</name>
+   <tag></tag>
+   <elementGuidId>1b55c696-3c66-4187-8266-579f7770bc49</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h6.list-sub-menu-title > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbarSupportedContent']/ul/li/div/div/div/div/ul/li/div/div/h6/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fd890105-7a79-4e86-be59-4f05aa5ec5f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/en/solutions/people-management/hr-administration/</value>
+      <webElementGuid>f2c877ff-7938-4e4e-a4fe-4b6a59f851cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>HR Administration</value>
+      <webElementGuid>5defff02-c62a-4ab5-9596-6d4d33621efd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbarSupportedContent&quot;)/ul[@class=&quot;navbar-nav me-auto mb-2 mb-lg-0 web-menu&quot;]/li[@class=&quot;nav-item&quot;]/div[@class=&quot;secondary&quot;]/div[@class=&quot;col-md-12 col-lg-12&quot;]/div[@class=&quot;sub-menu&quot;]/div[@class=&quot;secondary-menu&quot;]/ul[1]/li[@class=&quot;sub-menu-title menu-title-row pt-2 pb-2&quot;]/div[@class=&quot;menu-title-row-view-platform&quot;]/div[@class=&quot;platform-menu-title&quot;]/h6[@class=&quot;list-sub-menu-title&quot;]/a[1]</value>
+      <webElementGuid>3b9c98f5-0727-4632-8c80-e730770637ac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarSupportedContent']/ul/li/div/div/div/div/ul/li/div/div/h6/a</value>
+      <webElementGuid>75373d1a-1b1f-4f38-937e-80678668f973</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'HR Administration')]</value>
+      <webElementGuid>aea6718e-e6b2-49ec-8ac2-e49c4358c774</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/en/solutions/people-management/hr-administration/')]</value>
+      <webElementGuid>2ab34389-d146-4cd2-9e77-d0b1c6514a14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h6/a</value>
+      <webElementGuid>5341d21b-fc24-429e-8c32-cec022b34698</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/en/solutions/people-management/hr-administration/' and (text() = 'HR Administration' or . = 'HR Administration')]</value>
+      <webElementGuid>a7d4ea86-93be-41b6-9617-7aef7a110323</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
